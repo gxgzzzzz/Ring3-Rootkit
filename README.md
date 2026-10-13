@@ -10,6 +10,19 @@ view of the system.
 > **Intended use:** run this only on machines you own or are explicitly authorized
 > to test. It is a research artifact, not a commercial product, and is provided
 > as-is with no warranty.
+>
+>   <img width="1152" height="140" alt="Errors to-fix#" src="https://github.com/user-attachments/assets/23a70418-4ed8-4c6d-87b2-b149daf553e8" />
+<img width="493" height="162" alt="Inject by namew" src="https://github.com/user-attachments/assets/c3914e18-d5e1-4913-b8c5-5e5b620cb699" />
+<img width="1106" height="663" alt="HDEJS" src="https://github.com/user-attachments/assets/998f48d5-b9f3-4def-93fd-24177e44dc5a" />
+<img width="641" height="403" alt="Inject_timeout" src="https://github.com/user-attachments/assets/91cdf49b-542d-4faf-b1b8-ecea0f42b71d" />
+<img width="686" height="618" alt="Exit_Inject" src="https://github.com/user-attachments/assets/9c1fe022-5e95-4bb8-92ab-b6df77dbd3fd" />
+<img width="762" height="195" alt="Inject_process" src="https://github.com/user-attachments/assets/f72b2fb2-e2ad-4668-84a7-3cf145725bb9" />
+<img width="336" height="485" alt="dllMain" src="https://github.com/user-attachments/assets/a0e027c0-d959-4596-81ce-9429dab3a09e" />
+<img width="821" height="325" alt="Ped" src="https://github.com/user-attachments/assets/e5f2c4e4-8a87-4942-8c59-aef8ed1a3bfa" />
+<img width="830" height="438" alt="PID" src="https://github.com/user-attachments/assets/dc27cf72-9001-464a-ba5a-20503df2ae72" />
+<img width="919" height="632" alt="Installation hide" src="https://github.com/user-attachments/assets/0e29f945-072f-47ff-9983-74a79d6a0483" />
+<img width="880" height="533" alt="Hide_Peb" src="https://github.com/user-attachments/assets/f225ae80-1adb-43fd-8db0-86523fa0c799" />
+<img width="904" height="570" alt="Hide_Peb_Modules" src="https://github.com/user-attachments/assets/feac159f-0372-4b58-9af8-587e262c404c" />
 
 ---
 
@@ -263,17 +276,6 @@ Post-fix self-test: **45 passed, 0 failed** (see `build_log.txt`).
 
 
 
-  <img width="1152" height="140" alt="Errors to-fix#" src="https://github.com/user-attachments/assets/23a70418-4ed8-4c6d-87b2-b149daf553e8" />
-<img width="493" height="162" alt="Inject by namew" src="https://github.com/user-attachments/assets/c3914e18-d5e1-4913-b8c5-5e5b620cb699" />
-<img width="1106" height="663" alt="HDEJS" src="https://github.com/user-attachments/assets/998f48d5-b9f3-4def-93fd-24177e44dc5a" />
-<img width="641" height="403" alt="Inject_timeout" src="https://github.com/user-attachments/assets/91cdf49b-542d-4faf-b1b8-ecea0f42b71d" />
-<img width="686" height="618" alt="Exit_Inject" src="https://github.com/user-attachments/assets/9c1fe022-5e95-4bb8-92ab-b6df77dbd3fd" />
-<img width="762" height="195" alt="Inject_process" src="https://github.com/user-attachments/assets/f72b2fb2-e2ad-4668-84a7-3cf145725bb9" />
-<img width="336" height="485" alt="dllMain" src="https://github.com/user-attachments/assets/a0e027c0-d959-4596-81ce-9429dab3a09e" />
-<img width="821" height="325" alt="Ped" src="https://github.com/user-attachments/assets/e5f2c4e4-8a87-4942-8c59-aef8ed1a3bfa" />
-<img width="830" height="438" alt="PID" src="https://github.com/user-attachments/assets/dc27cf72-9001-464a-ba5a-20503df2ae72" />
-<img width="919" height="632" alt="Installation hide" src="https://github.com/user-attachments/assets/0e29f945-072f-47ff-9983-74a79d6a0483" />
-<img width="880" height="533" alt="Hide_Peb" src="https://github.com/user-attachments/assets/f225ae80-1adb-43fd-8db0-86523fa0c799" />
-<img width="904" height="570" alt="Hide_Peb_Modules" src="https://github.com/user-attachments/assets/feac159f-0372-4b58-9af8-587e262c404c" />
+
 <img width="306" height="588" alt="Externel dependencies" src="https://github.com/user-attachments/assets/3b73a844-7b1e-4728-82d4-d03d151d68c9" />
 <img width="743" height="353" alt="Hooked Inforamtion" src="https://github.com/user-attachments/assets/30dda637-7b77-4185-b505-b8c7e51ef709" />
