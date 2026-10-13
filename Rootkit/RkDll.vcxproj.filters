@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx</Extensions>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{2AB3A2F1-7C4D-4E19-9B5E-0D8A1C6E3F44}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="api.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="dllmain.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="hide_file.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="hide_net.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="hide_proc.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="hide_reg.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="selfhide.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="..\common\config.cpp"><Filter>Common</Filter></ClCompile>
+    <ClCompile Include="..\common\hook.cpp"><Filter>Common</Filter></ClCompile>
+    <ClCompile Include="..\common\lde.c"><Filter>Common</Filter></ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="api.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="rkhooks.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="..\common\config.h"><Filter>Common</Filter></ClInclude>
+    <ClInclude Include="..\common\hook.h"><Filter>Common</Filter></ClInclude>
+    <ClInclude Include="..\common\lde.h"><Filter>Common</Filter></ClInclude>
+    <ClInclude Include="..\common\rknt.h"><Filter>Common</Filter></ClInclude>
+  </ItemGroup>
+</Project>

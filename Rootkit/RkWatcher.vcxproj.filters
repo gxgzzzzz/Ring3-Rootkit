@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx</Extensions>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{1F8C2E9A-5D3B-4C67-A1E0-9B4D7C2F8E55}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="rk_config.c"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="..\common\config.cpp"><Filter>Common</Filter></ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\common\config.h"><Filter>Common</Filter></ClInclude>
+  </ItemGroup>
+</Project>
